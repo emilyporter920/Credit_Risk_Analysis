@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 
 ## Overview
-* This analysis was performed using Machine Learning in Jupyter Notebook. The types of tests performed were: Naive Random Oversampling, SMOTE, Cluster Centroids, SMOTEENN, Balanced Random Forest Classifier, and Easy Ensemble Classifier. Based on the results of these test a recommendation was made on which model would predict credit risk the best._
+* This analysis was performed using Machine Learning in Jupyter Notebook. The types of tests performed were: Naive Random Oversampling, SMOTE, Cluster Centroids, SMOTEENN, Balanced Random Forest Classifier, and Easy Ensemble Classifier. Based on the results of these test a recommendation was made on which model would predict credit risk the best.
 
 ## Results
 
